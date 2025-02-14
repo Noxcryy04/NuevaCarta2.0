@@ -30,8 +30,8 @@ body {
 }
 
 .card {
-    width: 400px; /* Ajustar el tamaño de la carta */
-    height: 550px; /* Ajustar el tamaño de la carta */
+    width: 350px; /* Ajustar el tamaño de la carta */
+    height: 500px; /* Ajustar el tamaño de la carta */
     position: relative;
     perspective: 1000px;
     transform-style: preserve-3d;
@@ -63,7 +63,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    padding: 20px; /* Ajustar el padding */
+    padding: 10px; /* Ajustar el padding */
     background-color: rgba(255, 255, 255, 0.8); /* Hacer la carta translúcida */
     color: #333;
     overflow: hidden; /* Asegurarse de que el contenido no se desborde */
