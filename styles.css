@@ -165,6 +165,6 @@ body {
     border: none;
     padding: 8px 16px; /* Reducir el tamaño del botón */
     border-radius: 5px;
-    font-size: 14px; /* Reducir el tamaño del texto */
+    font-size: 10px; /* Reducir el tamaño del texto */
     margin-top: 10px;
 }
