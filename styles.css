@@ -163,8 +163,8 @@ body {
     background-color: #800000;
     color: white;
     border: none;
-    padding: 9px 16px; /* Reducir el tamaño del botón */
+    padding: 8px 16px; /* Reducir el tamaño del botón */
     border-radius: 5px;
-    font-size: 17px; /* Reducir el tamaño del texto */
+    font-size: 16px; /* Reducir el tamaño del texto */
     margin-top: 10px;
 }
